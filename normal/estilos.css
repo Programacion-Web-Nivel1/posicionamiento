@@ -1,0 +1,9 @@
+h1, p {
+    border: 4px dashed black;
+    background: lightcoral;
+}
+
+span, i, b {
+    background: lightcyan;
+    border: 1px solid black;
+}
